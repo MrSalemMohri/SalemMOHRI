@@ -1,6 +1,6 @@
 ![Untitled drawing (9)](https://user-images.githubusercontent.com/59022292/154501475-12e06f23-46ab-40e8-b319-46248e5814f2.png)
 
-<h1> Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm Antonia! </h1>
+<h1> Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm Salem! </h1>
 
 ### <img src="https://media.giphy.com/media/LRlblMDrxibqF42H44/giphy.gif" width="50"> Details about me...  
 
